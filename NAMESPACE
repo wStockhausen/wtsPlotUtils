@@ -1,0 +1,3 @@
+export(createColorPalette)
+export(createColorScale)
+import(graphics)
